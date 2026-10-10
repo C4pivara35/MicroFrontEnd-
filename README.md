@@ -1,5 +1,7 @@
 # FitForge — app de treino com React + Module Federation
 
+Link para o site : https://orange-glacier-0887de110.2.azurestaticapps.net/
+
 Aplicativo acadêmico de academia, com interface responsiva em **cinza escuro e laranja**, construído como um **shell e dois microfrontends reais**. O shell carrega os módulos de treino e progresso em tempo de execução com **Webpack 5 Module Federation**.
 
 ## Endereço publicado
